@@ -56,7 +56,7 @@ var zodiac = [
 	},
 	{
 		sign: "virgo",
-		fortune: "Analyzing, Practical, Reflective, Observation, Thoughtful",
+		fortune: "Analyzing, Practical, Reflective, Observation AND Thoughtful",
 		image: "img/virgo2.PNG"
 	}
 ]
